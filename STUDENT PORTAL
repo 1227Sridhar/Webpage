@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>SIGN IN</title>
+</head>
+<body>
+    <center>
+        <br><br><br><br><br><br><br><br>
+    <fieldset style="background-color: blue;  width:500px; height: 300px;">
+    <form>
+        <label><h1>SIGN IN</h1></label>
+        <br>
+        <input style="font-size:20px"  pattern="[0-9]{16,}[A-Z]{1, ,20}" placeholder="               ROLLNO" required>
+        <br><br>
+        <input style="font-size:20px"  type="password" placeholder="             PASSWORD" required>
+        <br><br>
+        <a href="StudentportalRegister.html">
+            <input type="button" value="LOGIN" style="font-size:30px" required>
+        </a>
+        <a href="https://mail.google.com">
+        <img src="C:\Users\sridhar\Pictures\allpixm--google-plus-logo-png-13.png" style="width: 35px;">
+         </a>
+         <a href="https://m.facebook.com/">
+        <img src="C:\Users\sridhar\Pictures\social-facebook-icon.png" style="width: 35px;">
+        </a>
+    </form>
+</fieldset>
+</center>
+</body>
+</html>
